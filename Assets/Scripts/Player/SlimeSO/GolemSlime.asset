@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c59d5b1ed2bec64d8220a51b650184d, type: 3}
+  m_Name: GolemSlime
+  m_EditorClassIdentifier: 
+  slimeName: Golem
+  velocity: 1
+  jumpVelocity: 0
+  damage: 10
+  abilityCooldown: 2
+  sizeX: 2
+  sizeY: 2
+  icon: {fileID: -74329763477768735, guid: ea1e28d0d8714d946ac08c5a6f5cabe5, type: 3}
+  shotPrefub: {fileID: 2597885049698865517, guid: 0ddcc846aa9e5ee40a7ee56d3e680365, type: 3}
+  shootCooldown: 2

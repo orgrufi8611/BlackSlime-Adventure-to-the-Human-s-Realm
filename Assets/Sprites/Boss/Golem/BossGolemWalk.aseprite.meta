@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 10c5836e4ed633148868013937a68e83
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BossGolemWalk_Frame_0
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 72
+      height: 82
+    spriteID: 2058cb6e6aac8544e86b5dc81382dd38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 333}
+  - name: BossGolemWalk_Frame_1
+    originalName: 
+    pivot: {x: 0.44827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 347
+      width: 58
+      height: 83
+    spriteID: 7e1da79b62414e9449f03d000b03bc33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 334}
+  - name: BossGolemWalk_Frame_2
+    originalName: 
+    pivot: {x: 0.40983605, y: -0.012345679}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 347
+      width: 61
+      height: 81
+    spriteID: 6b0d2929e2420aa42b3ef87f16f241bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 333}
+  - name: BossGolemWalk_Frame_3
+    originalName: 
+    pivot: {x: 0.43939394, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 437
+      y: 171
+      width: 66
+      height: 78
+    spriteID: 3564980bca05473459dcc56e93642d4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 437, y: 171}
+  - name: BossGolemWalk_Frame_4
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 171
+      width: 73
+      height: 76
+    spriteID: 2fff816a410a944428e80b6560ec9cee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 157}
+  - name: BossGolemWalk_Frame_5
+    originalName: 
+    pivot: {x: 0.5068493, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 171
+      width: 73
+      height: 76
+    spriteID: e8d62e51da568694da6dc4fbcbf0ea56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 157}
+  - name: BossGolemWalk_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 171
+      width: 68
+      height: 79
+    spriteID: b6cc5adaaed9f854dbd76343874d6a4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 156}
+  - name: BossGolemWalk_Frame_7
+    originalName: 
+    pivot: {x: 0.43333337, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 296
+      y: 347
+      width: 60
+      height: 81
+    spriteID: bcc1bd0d84aa60544863873421fc6e5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 332}
+  - name: BossGolemWalk_Frame_8
+    originalName: 
+    pivot: {x: 0.48333335, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 347
+      width: 60
+      height: 83
+    spriteID: cb1511945cb68684abfd193b1ae806cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 334}
+  - name: BossGolemWalk_Frame_9
+    originalName: 
+    pivot: {x: 0.52238804, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 347
+      width: 67
+      height: 83
+    spriteID: 08b97935ae15071428b51a51717722af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 333}
+  - name: BossGolemWalk_Frame_10
+    originalName: 
+    pivot: {x: 0.5064935, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 258
+      width: 77
+      height: 81
+    spriteID: 9e7ea86ef90a9424ea59173191e78533
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 243}
+  - name: BossGolemWalk_Frame_11
+    originalName: 
+    pivot: {x: 0.4888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 171
+      width: 90
+      height: 78
+    spriteID: be884b680af1510428d099a55fee9f77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 156}
+  - name: BossGolemWalk_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.026666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 98
+      height: 75
+    spriteID: 78598c7a62ae49946b140a8e0a9828ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: -12}
+  - name: BossGolemWalk_Frame_13
+    originalName: 
+    pivot: {x: 0.5208334, y: -0.02631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 87
+      width: 96
+      height: 76
+    spriteID: 869038645016a8846ac9ca7117247592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 71}
+  - name: BossGolemWalk_Frame_14
+    originalName: 
+    pivot: {x: 0.5168539, y: -0.025316454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 171
+      width: 89
+      height: 79
+    spriteID: 2570878757d8415428b478d9f7fcee14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 155}
+  - name: BossGolemWalk_Frame_15
+    originalName: 
+    pivot: {x: 0.5822785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 79
+      height: 81
+    spriteID: d4936786306cb374b9e32467b24a8a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 242}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 905795712
+    name: BossGolemWalk
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BossGolemWalk_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -14
+        width: 128
+        height: 127
+      spriteId: 2058cb6e6aac8544e86b5dc81382dd38
+    - name: BossGolemWalk_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -2
+        y: -13
+        width: 128
+        height: 127
+      spriteId: 7e1da79b62414e9449f03d000b03bc33
+    - name: BossGolemWalk_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: -13
+        width: 128
+        height: 127
+      spriteId: 6b0d2929e2420aa42b3ef87f16f241bc
+    - name: BossGolemWalk_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 35
+        y: 0
+        width: 66
+        height: 78
+      spriteId: 3564980bca05473459dcc56e93642d4f
+    - name: BossGolemWalk_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -3
+        y: -13
+        width: 128
+        height: 127
+      spriteId: 2fff816a410a944428e80b6560ec9cee
+    - name: BossGolemWalk_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -2
+        y: -14
+        width: 128
+        height: 127
+      spriteId: e8d62e51da568694da6dc4fbcbf0ea56
+    - name: BossGolemWalk_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -3
+        y: -15
+        width: 128
+        height: 127
+      spriteId: b6cc5adaaed9f854dbd76343874d6a4b
+    - name: BossGolemWalk_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -3
+        y: -15
+        width: 128
+        height: 127
+      spriteId: bcc1bd0d84aa60544863873421fc6e5f
+    - name: BossGolemWalk_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -6
+        y: -13
+        width: 128
+        height: 127
+      spriteId: cb1511945cb68684abfd193b1ae806cf
+    - name: BossGolemWalk_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -2
+        y: -14
+        width: 128
+        height: 127
+      spriteId: 08b97935ae15071428b51a51717722af
+    - name: BossGolemWalk_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -1
+        y: -15
+        width: 128
+        height: 127
+      spriteId: 9e7ea86ef90a9424ea59173191e78533
+    - name: BossGolemWalk_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 2
+        y: -15
+        width: 128
+        height: 127
+      spriteId: be884b680af1510428d099a55fee9f77
+    - name: BossGolemWalk_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 2
+        y: -14
+        width: 128
+        height: 127
+      spriteId: 78598c7a62ae49946b140a8e0a9828ff
+    - name: BossGolemWalk_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 3
+        y: -14
+        width: 128
+        height: 127
+      spriteId: 869038645016a8846ac9ca7117247592
+    - name: BossGolemWalk_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 7
+        y: -14
+        width: 128
+        height: 127
+      spriteId: 2570878757d8415428b478d9f7fcee14
+    - name: BossGolemWalk_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: -16
+        width: 128
+        height: 127
+      spriteId: d4936786306cb374b9e32467b24a8a38
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 96}

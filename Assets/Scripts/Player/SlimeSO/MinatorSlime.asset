@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c59d5b1ed2bec64d8220a51b650184d, type: 3}
+  m_Name: MinatorSlime
+  m_EditorClassIdentifier: 
+  slimeName: Minator
+  velocity: 3
+  jumpVelocity: 0
+  damage: 5
+  abilityCooldown: 5
+  sizeX: 2
+  sizeY: 2
+  icon: {fileID: 1518481142431913736, guid: cba01ace455a444478fa9cb088742e4b, type: 3}
+  shotPrefub: {fileID: 6475353407610924005, guid: a555feb9b9fbb114090885d5f22dc685, type: 3}
+  shootCooldown: 1

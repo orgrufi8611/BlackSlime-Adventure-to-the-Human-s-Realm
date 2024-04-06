@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c59d5b1ed2bec64d8220a51b650184d, type: 3}
+  m_Name: WormSlime
+  m_EditorClassIdentifier: 
+  slimeName: Worm
+  velocity: 2
+  jumpVelocity: 0
+  damage: 5
+  abilityCooldown: 5
+  sizeX: 2
+  sizeY: 2
+  icon: {fileID: 6914260860994186326, guid: d74dab48cfe5b164396e51a1a8d4b0f9, type: 3}
+  shotPrefub: {fileID: 177890725667745349, guid: da14653e4dfe11b409385edcc0a10e4c, type: 3}
+  shootCooldown: 0.8

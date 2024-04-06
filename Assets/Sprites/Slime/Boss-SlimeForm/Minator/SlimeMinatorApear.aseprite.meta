@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: a0d4ff27065289940b9d07b32f864ded
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SlimeMinatorApear_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 74
+      width: 26
+      height: 24
+    spriteID: e179f7dbae771b44f9f104e04fd39ebc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 74}
+  - name: SlimeMinatorApear_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.050000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 25
+      width: 32
+      height: 20
+    spriteID: 3e110075cc9f32e49b1fa66944064481
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 25}
+  - name: SlimeMinatorApear_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 4
+      width: 54
+      height: 13
+    spriteID: 82005c6f294d42b4b963f9527ee08d00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 4}
+  - name: SlimeMinatorApear_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 489
+      width: 68
+      height: 13
+    spriteID: 7adc0ed52e0b7db4e9b0895407a3f80a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 489}
+  - name: SlimeMinatorApear_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 213
+      width: 66
+      height: 6
+    spriteID: 71b27fbf37370944db9370d804fa964d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 213}
+  - name: SlimeMinatorApear_Frame_5
+    originalName: 
+    pivot: {x: 0.4050633, y: 0.7213115}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 144
+      width: 79
+      height: 61
+    spriteID: 1eb99b62484a9ab408299e58ec9aa952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 144}
+  - name: SlimeMinatorApear_Frame_6
+    originalName: 
+    pivot: {x: 0.48863637, y: 0.5737705}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 280
+      width: 88
+      height: 61
+    spriteID: affbe0d40019cc34aab2413961f50cad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 280}
+  - name: SlimeMinatorApear_Frame_7
+    originalName: 
+    pivot: {x: 0.5050505, y: 0.37704918}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 99
+      height: 61
+    spriteID: d6dc524dbc605ff409c97e2349ff1b45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SlimeMinatorApear_Frame_8
+    originalName: 
+    pivot: {x: 0.5050505, y: 0.19672132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 73
+      width: 99
+      height: 61
+    spriteID: fcdb019ccfeb3dd42babde3cefc117fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 73}
+  - name: SlimeMinatorApear_Frame_9
+    originalName: 
+    pivot: {x: 0.5050505, y: 0.065573774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 142
+      width: 99
+      height: 61
+    spriteID: 8ae788c90e7d815458949cb2f24397d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 142}
+  - name: SlimeMinatorApear_Frame_10
+    originalName: 
+    pivot: {x: 0.46808508, y: 0.04918033}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 211
+      width: 94
+      height: 61
+    spriteID: 795539255a1670c40a7d16a5106b3425
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 211}
+  - name: SlimeMinatorApear_Frame_11
+    originalName: 
+    pivot: {x: 0.39285716, y: 0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 349
+      width: 84
+      height: 62
+    spriteID: e8d7aea9f22237244af5c04c176398cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 349}
+  - name: SlimeMinatorApear_Frame_12
+    originalName: 
+    pivot: {x: 0.35443038, y: 0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 419
+      width: 79
+      height: 62
+    spriteID: 2f562745cc902f64aafec98201621866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 419}
+  - name: SlimeMinatorApear_Frame_13
+    originalName: 
+    pivot: {x: 0.35443038, y: 0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 79
+      height: 62
+    spriteID: 6cb4a43e61ba3e04dbe3a919d12659cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: SlimeMinatorApear_Frame_14
+    originalName: 
+    pivot: {x: 0.35443038, y: 0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 74
+      width: 79
+      height: 62
+    spriteID: 79b2e322fb3371d4a8fc56ed7078e5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 74}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 429201247
+    name: SlimeMinatorApear
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SlimeMinatorApear_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 32
+      spriteId: e179f7dbae771b44f9f104e04fd39ebc
+    - name: SlimeMinatorApear_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 20
+      spriteId: 3e110075cc9f32e49b1fa66944064481
+    - name: SlimeMinatorApear_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 37
+        y: -1
+        width: 54
+        height: 13
+      spriteId: 82005c6f294d42b4b963f9527ee08d00
+    - name: SlimeMinatorApear_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: -1
+        width: 68
+        height: 13
+      spriteId: 7adc0ed52e0b7db4e9b0895407a3f80a
+    - name: SlimeMinatorApear_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: -1
+        width: 66
+        height: 6
+      spriteId: 71b27fbf37370944db9370d804fa964d
+    - name: SlimeMinatorApear_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 32
+        y: -44
+        width: 79
+        height: 61
+      spriteId: 1eb99b62484a9ab408299e58ec9aa952
+    - name: SlimeMinatorApear_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 21
+        y: -35
+        width: 88
+        height: 61
+      spriteId: affbe0d40019cc34aab2413961f50cad
+    - name: SlimeMinatorApear_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 14
+        y: -23
+        width: 99
+        height: 61
+      spriteId: d6dc524dbc605ff409c97e2349ff1b45
+    - name: SlimeMinatorApear_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 14
+        y: -12
+        width: 99
+        height: 61
+      spriteId: fcdb019ccfeb3dd42babde3cefc117fa
+    - name: SlimeMinatorApear_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 14
+        y: -4
+        width: 99
+        height: 61
+      spriteId: 8ae788c90e7d815458949cb2f24397d8
+    - name: SlimeMinatorApear_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 20
+        y: -3
+        width: 94
+        height: 61
+      spriteId: 795539255a1670c40a7d16a5106b3425
+    - name: SlimeMinatorApear_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 31
+        y: -1
+        width: 84
+        height: 62
+      spriteId: e8d7aea9f22237244af5c04c176398cb
+    - name: SlimeMinatorApear_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 36
+        y: -1
+        width: 79
+        height: 62
+      spriteId: 2f562745cc902f64aafec98201621866
+    - name: SlimeMinatorApear_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 36
+        y: -1
+        width: 79
+        height: 62
+      spriteId: 6cb4a43e61ba3e04dbe3a919d12659cf
+    - name: SlimeMinatorApear_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 36
+        y: -1
+        width: 79
+        height: 62
+      spriteId: 79b2e322fb3371d4a8fc56ed7078e5de
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 96}

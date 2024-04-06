@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 52a8bd26e0fc71d418dd50592be3985b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SlimeWormApear_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 32
+      width: 26
+      height: 24
+    spriteID: ed7929946f6eb844ea1d1a62bd1ead00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 32}
+  - name: SlimeWormApear_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.050000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 4
+      width: 32
+      height: 20
+    spriteID: 3a6a4f6b551e95c4990f79549530b732
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 4}
+  - name: SlimeWormApear_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 490
+      width: 54
+      height: 13
+    spriteID: 39fcdd9a284de034db4801fee42d9b95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 490}
+  - name: SlimeWormApear_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 469
+      width: 68
+      height: 13
+    spriteID: 749430c8820c2c84ca99067067477326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 469}
+  - name: SlimeWormApear_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 205
+      width: 66
+      height: 6
+    spriteID: b7c7a08073c21794a86f0790913e761f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 205}
+  - name: SlimeWormApear_Frame_5
+    originalName: 
+    pivot: {x: 0.65217394, y: 0.63793105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 92
+      height: 58
+    spriteID: 6f5863f96ed821d44889b9b202f9db4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 269}
+  - name: SlimeWormApear_Frame_6
+    originalName: 
+    pivot: {x: 0.53763443, y: 0.41379312}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 93
+      height: 58
+    spriteID: 98c351af26c5f274284c42c79b3e8ba8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 203}
+  - name: SlimeWormApear_Frame_7
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.18965518}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 71
+      width: 99
+      height: 58
+    spriteID: 81503a4be6452e741b9a1f9ee3eddea8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 71}
+  - name: SlimeWormApear_Frame_8
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.068965524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 137
+      width: 99
+      height: 58
+    spriteID: 86157e9a482a8f74c8ef005b22d9cd0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 137}
+  - name: SlimeWormApear_Frame_9
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 99
+      height: 59
+    spriteID: 6b9e177462ddc6b49a19d602bfe166f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SlimeWormApear_Frame_10
+    originalName: 
+    pivot: {x: 0.4883721, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 335
+      width: 86
+      height: 59
+    spriteID: c166476a8863ee2468464b0bc10dff44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 335}
+  - name: SlimeWormApear_Frame_11
+    originalName: 
+    pivot: {x: 0.4625, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 402
+      width: 80
+      height: 59
+    spriteID: 9af931a0921c6664e83b7daa2f967cb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 402}
+  - name: SlimeWormApear_Frame_12
+    originalName: 
+    pivot: {x: 0.4625, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 80
+      height: 59
+    spriteID: 2a2d25cc9dfa2f54a9f02fe81b3bc4e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: SlimeWormApear_Frame_13
+    originalName: 
+    pivot: {x: 0.4625, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 71
+      width: 80
+      height: 59
+    spriteID: 7acba408440765745b6f52175cff6210
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 71}
+  - name: SlimeWormApear_Frame_14
+    originalName: 
+    pivot: {x: 0.4625, y: 0.016949153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 138
+      width: 80
+      height: 59
+    spriteID: 12497a9d9810b1b48b5bf84e02cf5b12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 138}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 129272652
+    name: SlimeWormApear
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SlimeWormApear_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 32
+      spriteId: ed7929946f6eb844ea1d1a62bd1ead00
+    - name: SlimeWormApear_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 20
+      spriteId: 3a6a4f6b551e95c4990f79549530b732
+    - name: SlimeWormApear_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 37
+        y: -1
+        width: 54
+        height: 13
+      spriteId: 39fcdd9a284de034db4801fee42d9b95
+    - name: SlimeWormApear_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: -1
+        width: 68
+        height: 13
+      spriteId: 749430c8820c2c84ca99067067477326
+    - name: SlimeWormApear_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: -1
+        width: 66
+        height: 6
+      spriteId: b7c7a08073c21794a86f0790913e761f
+    - name: SlimeWormApear_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: -37
+        width: 92
+        height: 58
+      spriteId: 6f5863f96ed821d44889b9b202f9db4b
+    - name: SlimeWormApear_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 14
+        y: -24
+        width: 93
+        height: 58
+      spriteId: 98c351af26c5f274284c42c79b3e8ba8
+    - name: SlimeWormApear_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 15
+        y: -11
+        width: 99
+        height: 58
+      spriteId: 81503a4be6452e741b9a1f9ee3eddea8
+    - name: SlimeWormApear_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 15
+        y: -4
+        width: 99
+        height: 58
+      spriteId: 86157e9a482a8f74c8ef005b22d9cd0a
+    - name: SlimeWormApear_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 15
+        y: -1
+        width: 99
+        height: 59
+      spriteId: 6b9e177462ddc6b49a19d602bfe166f7
+    - name: SlimeWormApear_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 22
+        y: -1
+        width: 86
+        height: 59
+      spriteId: c166476a8863ee2468464b0bc10dff44
+    - name: SlimeWormApear_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 27
+        y: -1
+        width: 80
+        height: 59
+      spriteId: 9af931a0921c6664e83b7daa2f967cb5
+    - name: SlimeWormApear_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 27
+        y: -1
+        width: 80
+        height: 59
+      spriteId: 2a2d25cc9dfa2f54a9f02fe81b3bc4e9
+    - name: SlimeWormApear_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 27
+        y: -1
+        width: 80
+        height: 59
+      spriteId: 7acba408440765745b6f52175cff6210
+    - name: SlimeWormApear_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 27
+        y: -1
+        width: 80
+        height: 59
+      spriteId: 12497a9d9810b1b48b5bf84e02cf5b12
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 96}

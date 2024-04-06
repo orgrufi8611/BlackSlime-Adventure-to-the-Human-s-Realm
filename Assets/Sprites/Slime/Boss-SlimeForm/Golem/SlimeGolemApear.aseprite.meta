@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 2d8a2f019a9306249843e94c047bf776
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SlimeGolemApear_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 206
+      width: 26
+      height: 24
+    spriteID: f190bad392ebe5f44b0dd9f6b03e2ac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: 206}
+  - name: SlimeGolemApear_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.050000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 178
+      width: 32
+      height: 20
+    spriteID: abd2fa13025e15147ae3e30c0afd1187
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 178}
+  - name: SlimeGolemApear_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 455
+      width: 54
+      height: 13
+    spriteID: c1a8964b8d2c8ce47b546764fc458364
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 455}
+  - name: SlimeGolemApear_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 434
+      width: 68
+      height: 13
+    spriteID: 9104a75173068f9489ee80e0490d93bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 434}
+  - name: SlimeGolemApear_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 476
+      width: 66
+      height: 6
+    spriteID: 433bd49544620bf449564b9fbf2bcc4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 476}
+  - name: SlimeGolemApear_Frame_5
+    originalName: 
+    pivot: {x: 0.48000002, y: 0.8205129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 178
+      width: 75
+      height: 78
+    spriteID: 5e321bd2a6fd30542ada4897372eb4dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 178}
+  - name: SlimeGolemApear_Frame_6
+    originalName: 
+    pivot: {x: 0.49411765, y: 0.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 348
+      width: 85
+      height: 78
+    spriteID: e04ae798e52222c4bb99b8388025cf2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 348}
+  - name: SlimeGolemApear_Frame_7
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 99
+      height: 78
+    spriteID: 0b000e75225b6d746948b29b76c75f93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SlimeGolemApear_Frame_8
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.5641026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 90
+      width: 99
+      height: 78
+    spriteID: e0e174d510d996b408180bf435345b2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 90}
+  - name: SlimeGolemApear_Frame_9
+    originalName: 
+    pivot: {x: 0.4949495, y: 0.44871798}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 99
+      height: 78
+    spriteID: fd4f35f3955077149b958aa5158c45cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 176}
+  - name: SlimeGolemApear_Frame_10
+    originalName: 
+    pivot: {x: 0.4883721, y: 0.35897437}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 262
+      width: 86
+      height: 78
+    spriteID: 347e5d88555b29444aec1bd30f96d138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 262}
+  - name: SlimeGolemApear_Frame_11
+    originalName: 
+    pivot: {x: 0.53333336, y: 0.24358976}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 264
+      width: 75
+      height: 78
+    spriteID: 9fffa256abc88974d9b6d09b56c8e87a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 264}
+  - name: SlimeGolemApear_Frame_12
+    originalName: 
+    pivot: {x: 0.48000002, y: 0.14102565}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 350
+      width: 75
+      height: 78
+    spriteID: 0c66e3efea582d541bc310ce73507cc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 350}
+  - name: SlimeGolemApear_Frame_13
+    originalName: 
+    pivot: {x: 0.50666666, y: 0.012658227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 75
+      height: 79
+    spriteID: 77520495bb06da541bbae4c43d270d54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: SlimeGolemApear_Frame_14
+    originalName: 
+    pivot: {x: 0.49333334, y: 0.012658227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 91
+      width: 75
+      height: 79
+    spriteID: da37c89ec1b9ed94ba81ef7ebd018572
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 91}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -175504959
+    name: SlimeGolemApear
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SlimeGolemApear_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 32
+      spriteId: f190bad392ebe5f44b0dd9f6b03e2ac7
+    - name: SlimeGolemApear_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 48
+        y: -1
+        width: 32
+        height: 20
+      spriteId: abd2fa13025e15147ae3e30c0afd1187
+    - name: SlimeGolemApear_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 37
+        y: -1
+        width: 54
+        height: 13
+      spriteId: c1a8964b8d2c8ce47b546764fc458364
+    - name: SlimeGolemApear_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: -1
+        width: 68
+        height: 13
+      spriteId: 9104a75173068f9489ee80e0490d93bb
+    - name: SlimeGolemApear_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: -1
+        width: 66
+        height: 6
+      spriteId: 433bd49544620bf449564b9fbf2bcc4e
+    - name: SlimeGolemApear_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 28
+        y: -64
+        width: 75
+        height: 78
+      spriteId: 5e321bd2a6fd30542ada4897372eb4dc
+    - name: SlimeGolemApear_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 22
+        y: -60
+        width: 85
+        height: 78
+      spriteId: e04ae798e52222c4bb99b8388025cf2d
+    - name: SlimeGolemApear_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 15
+        y: -52
+        width: 99
+        height: 78
+      spriteId: 0b000e75225b6d746948b29b76c75f93
+    - name: SlimeGolemApear_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 15
+        y: -44
+        width: 99
+        height: 78
+      spriteId: e0e174d510d996b408180bf435345b2d
+    - name: SlimeGolemApear_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 15
+        y: -35
+        width: 99
+        height: 78
+      spriteId: fd4f35f3955077149b958aa5158c45cc
+    - name: SlimeGolemApear_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 22
+        y: -28
+        width: 86
+        height: 78
+      spriteId: 347e5d88555b29444aec1bd30f96d138
+    - name: SlimeGolemApear_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 24
+        y: -19
+        width: 75
+        height: 78
+      spriteId: 9fffa256abc88974d9b6d09b56c8e87a
+    - name: SlimeGolemApear_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 28
+        y: -11
+        width: 75
+        height: 78
+      spriteId: 0c66e3efea582d541bc310ce73507cc2
+    - name: SlimeGolemApear_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 26
+        y: -1
+        width: 75
+        height: 79
+      spriteId: 77520495bb06da541bbae4c43d270d54
+    - name: SlimeGolemApear_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 27
+        y: -1
+        width: 75
+        height: 79
+      spriteId: da37c89ec1b9ed94ba81ef7ebd018572
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 96}

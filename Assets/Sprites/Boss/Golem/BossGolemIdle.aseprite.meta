@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: ea1e28d0d8714d946ac08c5a6f5cabe5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BossGolemIdle_Frame_0
+    originalName: 
+    pivot: {x: 0.50666666, y: 0.012820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 75
+      height: 78
+    spriteID: 0f3e4cd36c1f4fa4483725b969ed0196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 258}
+  - name: BossGolemIdle_Frame_1
+    originalName: 
+    pivot: {x: 0.50666666, y: 0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 428
+      width: 75
+      height: 77
+    spriteID: 2c4550807209a044986c9bd72daf08aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 428}
+  - name: BossGolemIdle_Frame_2
+    originalName: 
+    pivot: {x: 0.5135135, y: 0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 89
+      width: 74
+      height: 77
+    spriteID: 13fd829fe10740041bc2dafbc6de5c73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 89}
+  - name: BossGolemIdle_Frame_3
+    originalName: 
+    pivot: {x: 0.5135135, y: 0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 423
+      width: 74
+      height: 76
+    spriteID: 851487fec619a484fae77aa3e5c61075
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 423}
+  - name: BossGolemIdle_Frame_4
+    originalName: 
+    pivot: {x: 0.5135135, y: 0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 87
+      width: 74
+      height: 76
+    spriteID: c5c13a1f7f36ee34f818fd3f61e61998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 87}
+  - name: BossGolemIdle_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 171
+      width: 74
+      height: 75
+    spriteID: c9ea14c4754724448bb0d8af3449c0f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 171}
+  - name: BossGolemIdle_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 254
+      width: 74
+      height: 75
+    spriteID: c2870d484c7b68244b03a5ff3107996a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 254}
+  - name: BossGolemIdle_Frame_7
+    originalName: 
+    pivot: {x: 0.4933333, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 174
+      width: 75
+      height: 75
+    spriteID: eeacb8005450ec84c8645a351c8b6db9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 174}
+  - name: BossGolemIdle_Frame_8
+    originalName: 
+    pivot: {x: 0.48, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 257
+      width: 75
+      height: 75
+    spriteID: 8125ccf24eb35fa44a505d0acddfc2bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 257}
+  - name: BossGolemIdle_Frame_9
+    originalName: 
+    pivot: {x: 0.48, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 340
+      width: 75
+      height: 75
+    spriteID: 7d7dc754e380c3242af4000ae5d1b740
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 340}
+  - name: BossGolemIdle_Frame_10
+    originalName: 
+    pivot: {x: 0.4736842, y: 0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 76
+      height: 75
+    spriteID: dfadba57afb54dd429c94e323982fe66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 4}
+  - name: BossGolemIdle_Frame_11
+    originalName: 
+    pivot: {x: 0.4736842, y: 0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 344
+      width: 76
+      height: 76
+    spriteID: 5236ac64ac2359240a7c71cf4d144f9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 344}
+  - name: BossGolemIdle_Frame_12
+    originalName: 
+    pivot: {x: 0.48051944, y: 0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 77
+      height: 76
+    spriteID: 0218ba52e4c4f5e4eb25701969673098
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 89}
+  - name: BossGolemIdle_Frame_13
+    originalName: 
+    pivot: {x: 0.48051944, y: 0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 77
+      height: 77
+    spriteID: 9c6311dcf803e7046bdeb3e978a9c963
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: BossGolemIdle_Frame_14
+    originalName: 
+    pivot: {x: 0.48684207, y: 0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 76
+      height: 77
+    spriteID: 71706ffb96ee9bf4b85214dd3707c471
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 173}
+  - name: BossGolemIdle_Frame_15
+    originalName: 
+    pivot: {x: 0.4933333, y: 0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 4
+      width: 75
+      height: 77
+    spriteID: f0b318713f04edd4292b4e8f9c4442a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1525577453
+    name: BossGolemIdle
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BossGolemIdle_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: -1
+        width: 75
+        height: 78
+      spriteId: 0f3e4cd36c1f4fa4483725b969ed0196
+    - name: BossGolemIdle_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: -1
+        width: 75
+        height: 77
+      spriteId: 2c4550807209a044986c9bd72daf08aa
+    - name: BossGolemIdle_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: -1
+        width: 74
+        height: 77
+      spriteId: 13fd829fe10740041bc2dafbc6de5c73
+    - name: BossGolemIdle_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: -1
+        width: 74
+        height: 76
+      spriteId: 851487fec619a484fae77aa3e5c61075
+    - name: BossGolemIdle_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: -1
+        width: 74
+        height: 76
+      spriteId: c5c13a1f7f36ee34f818fd3f61e61998
+    - name: BossGolemIdle_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 11
+        y: -1
+        width: 74
+        height: 75
+      spriteId: c9ea14c4754724448bb0d8af3449c0f4
+    - name: BossGolemIdle_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: -1
+        width: 74
+        height: 75
+      spriteId: c2870d484c7b68244b03a5ff3107996a
+    - name: BossGolemIdle_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: -1
+        width: 75
+        height: 75
+      spriteId: eeacb8005450ec84c8645a351c8b6db9
+    - name: BossGolemIdle_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 12
+        y: -1
+        width: 75
+        height: 75
+      spriteId: 8125ccf24eb35fa44a505d0acddfc2bf
+    - name: BossGolemIdle_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 12
+        y: -1
+        width: 75
+        height: 75
+      spriteId: 7d7dc754e380c3242af4000ae5d1b740
+    - name: BossGolemIdle_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 12
+        y: -1
+        width: 76
+        height: 75
+      spriteId: dfadba57afb54dd429c94e323982fe66
+    - name: BossGolemIdle_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 12
+        y: -1
+        width: 76
+        height: 76
+      spriteId: 5236ac64ac2359240a7c71cf4d144f9e
+    - name: BossGolemIdle_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 11
+        y: -1
+        width: 77
+        height: 76
+      spriteId: 0218ba52e4c4f5e4eb25701969673098
+    - name: BossGolemIdle_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 11
+        y: -1
+        width: 77
+        height: 77
+      spriteId: 9c6311dcf803e7046bdeb3e978a9c963
+    - name: BossGolemIdle_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 11
+        y: -1
+        width: 76
+        height: 77
+      spriteId: 71706ffb96ee9bf4b85214dd3707c471
+    - name: BossGolemIdle_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 11
+        y: -1
+        width: 75
+        height: 77
+      spriteId: f0b318713f04edd4292b4e8f9c4442a7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}

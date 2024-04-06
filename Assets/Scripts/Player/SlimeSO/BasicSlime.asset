@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c59d5b1ed2bec64d8220a51b650184d, type: 3}
+  m_Name: BasicSlime
+  m_EditorClassIdentifier: 
+  slimeName: Slime
+  velocity: 3
+  jumpVelocity: 10
+  damage: 2
+  abilityCooldown: 0
+  sizeX: 1
+  sizeY: 1
+  icon: {fileID: 21300000, guid: a217025a27bf792499509d5b8ca78d93, type: 3}
+  shotPrefub: {fileID: 1690532465941260880, guid: 3a8e1040edb169243bfca9950bf40f1b, type: 3}
+  shootCooldown: 0.25

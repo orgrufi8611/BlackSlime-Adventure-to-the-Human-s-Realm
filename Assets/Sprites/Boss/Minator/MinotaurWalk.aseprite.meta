@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: c04447b7ef076f143bd956becf76927e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MinotaurWalk_Frame_0
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 102
+      width: 52
+      height: 40
+    spriteID: c787bdd31bf56de4d83fbb95965ef15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 102}
+  - name: MinotaurWalk_Frame_1
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 102
+      width: 52
+      height: 40
+    spriteID: 7be50dfa5f611c74289e7f2cf38393e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 100}
+  - name: MinotaurWalk_Frame_2
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 52
+      height: 41
+    spriteID: 5198221910e76cb4f8ba3a64f84db2fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 4}
+  - name: MinotaurWalk_Frame_3
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 52
+      height: 41
+    spriteID: 8d1ae3980497f0d48aa644fb26ec036e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 4}
+  - name: MinotaurWalk_Frame_4
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 52
+      height: 41
+    spriteID: a39e3530cf068e5438c55330582fd472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 4}
+  - name: MinotaurWalk_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 151
+      width: 52
+      height: 40
+    spriteID: 5aaa3978a1c09014ebafec4f2ac21ec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 149}
+  - name: MinotaurWalk_Frame_6
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 4
+      width: 52
+      height: 41
+    spriteID: 7f493038d2fc141458b442e8a3906c23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 4}
+  - name: MinotaurWalk_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 52
+      height: 41
+    spriteID: 07a42d774c4e344438200ed165916a4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 53}
+  - name: MinotaurWalk_Frame_8
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 151
+      width: 52
+      height: 40
+    spriteID: a5b3ea4c587ceec4b8fb44cfaf36cd11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 151}
+  - name: MinotaurWalk_Frame_9
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 151
+      width: 52
+      height: 40
+    spriteID: d641a2356fb5e754aba48eb4a60a031e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 149}
+  - name: MinotaurWalk_Frame_10
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 53
+      width: 52
+      height: 41
+    spriteID: 5dce0c8d79405e94ebab203a9df4dced
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 53}
+  - name: MinotaurWalk_Frame_11
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 53
+      width: 52
+      height: 41
+    spriteID: 77e51774456437640a1e56e39a6d39b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 53}
+  - name: MinotaurWalk_Frame_12
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 53
+      width: 52
+      height: 41
+    spriteID: 2cd34b0d754ccb441ba54a248eb4598a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 53}
+  - name: MinotaurWalk_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 151
+      width: 52
+      height: 40
+    spriteID: 5da135a67e179c6448627d32cab47c86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 149}
+  - name: MinotaurWalk_Frame_14
+    originalName: 
+    pivot: {x: 0.5192308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 52
+      height: 41
+    spriteID: a05609ae3de88854abced45078985109
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 102}
+  - name: MinotaurWalk_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 102
+      width: 52
+      height: 41
+    spriteID: 3237a6d5f62c9ff4586718956bc15dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 102}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -767472986
+    name: MinotaurWalk
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MinotaurWalk_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: c787bdd31bf56de4d83fbb95965ef15c
+    - name: MinotaurWalk_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -6
+        y: -2
+        width: 64
+        height: 64
+      spriteId: 7be50dfa5f611c74289e7f2cf38393e3
+    - name: MinotaurWalk_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 5198221910e76cb4f8ba3a64f84db2fc
+    - name: MinotaurWalk_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 8d1ae3980497f0d48aa644fb26ec036e
+    - name: MinotaurWalk_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: a39e3530cf068e5438c55330582fd472
+    - name: MinotaurWalk_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -4
+        y: -2
+        width: 64
+        height: 64
+      spriteId: 5aaa3978a1c09014ebafec4f2ac21ec2
+    - name: MinotaurWalk_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 7f493038d2fc141458b442e8a3906c23
+    - name: MinotaurWalk_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -4
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 07a42d774c4e344438200ed165916a4d
+    - name: MinotaurWalk_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: a5b3ea4c587ceec4b8fb44cfaf36cd11
+    - name: MinotaurWalk_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -6
+        y: -2
+        width: 64
+        height: 64
+      spriteId: d641a2356fb5e754aba48eb4a60a031e
+    - name: MinotaurWalk_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 5dce0c8d79405e94ebab203a9df4dced
+    - name: MinotaurWalk_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 77e51774456437640a1e56e39a6d39b4
+    - name: MinotaurWalk_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 2cd34b0d754ccb441ba54a248eb4598a
+    - name: MinotaurWalk_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -4
+        y: -2
+        width: 64
+        height: 64
+      spriteId: 5da135a67e179c6448627d32cab47c86
+    - name: MinotaurWalk_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -6
+        y: 0
+        width: 64
+        height: 64
+      spriteId: a05609ae3de88854abced45078985109
+    - name: MinotaurWalk_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -4
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 3237a6d5f62c9ff4586718956bc15dec
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

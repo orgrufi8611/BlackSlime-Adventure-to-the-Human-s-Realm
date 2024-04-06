@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 58ca89cc1683ade498100b90c439ecbf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BossGolemSlam_Frame_0
+    originalName: 
+    pivot: {x: 0.7066667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 75
+      height: 78
+    spriteID: 3787abbac57561b4a81b8da473d9e6b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: BossGolemSlam_Frame_1
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 431
+      width: 70
+      height: 72
+    spriteID: b0112cbcf7c3c544ab8470eabac9b653
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 431}
+  - name: BossGolemSlam_Frame_2
+    originalName: 
+    pivot: {x: 0.5068493, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 262
+      width: 73
+      height: 74
+    spriteID: 6e3117960699be64b8b782ffc9dba198
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 262}
+  - name: BossGolemSlam_Frame_3
+    originalName: 
+    pivot: {x: 0.6619718, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 71
+      height: 102
+    spriteID: 8fe95ecae8bf7b947bdaa97f4d45f74e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: BossGolemSlam_Frame_4
+    originalName: 
+    pivot: {x: 0.9310345, y: -0.19819818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 357
+      width: 58
+      height: 111
+    spriteID: f341261c7a970604189f8a0230b5edcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 357}
+  - name: BossGolemSlam_Frame_5
+    originalName: 
+    pivot: {x: 0.94827586, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 58
+      height: 115
+    spriteID: c187ee0cb82801a4f836bd1adfb30ed9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: BossGolemSlam_Frame_6
+    originalName: 
+    pivot: {x: 0.62711865, y: -0.05357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 237
+      width: 59
+      height: 112
+    spriteID: b64585023b498ef4ba18945a979a6114
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 237}
+  - name: BossGolemSlam_Frame_7
+    originalName: 
+    pivot: {x: 0.3764706, y: 0.01724138}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 231
+      width: 85
+      height: 58
+    spriteID: cdb0bd8f112749c458320c71b18ec8a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 231}
+  - name: BossGolemSlam_Frame_8
+    originalName: 
+    pivot: {x: 0.37209302, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 4
+      width: 86
+      height: 59
+    spriteID: 873f2021c349da74581f415f47116fc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 4}
+  - name: BossGolemSlam_Frame_9
+    originalName: 
+    pivot: {x: 0.3902439, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 297
+      width: 82
+      height: 59
+    spriteID: 4d47663e3f435c447b8a3322f2cb9d2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 297}
+  - name: BossGolemSlam_Frame_10
+    originalName: 
+    pivot: {x: 0.38271606, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 364
+      width: 81
+      height: 59
+    spriteID: 3ada5dd92bd5ba64d8c77e6722bd4c22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 364}
+  - name: BossGolemSlam_Frame_11
+    originalName: 
+    pivot: {x: 0.42666668, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 71
+      width: 75
+      height: 67
+    spriteID: 57a6f78100087b34faec36ef5da0e149
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 71}
+  - name: BossGolemSlam_Frame_12
+    originalName: 
+    pivot: {x: 0.47692308, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 146
+      width: 65
+      height: 77
+    spriteID: 6a81491f10fcd3c47b4aa306efe3040f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 146}
+  - name: BossGolemSlam_Frame_13
+    originalName: 
+    pivot: {x: 0.5970149, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 344
+      width: 67
+      height: 79
+    spriteID: 529a88884bceb0948b2b7050243a5178
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 344}
+  - name: BossGolemSlam_Frame_14
+    originalName: 
+    pivot: {x: 0.6619718, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 176
+      width: 71
+      height: 78
+    spriteID: 2fb4b4afb2c86a944a2ce243c58f5496
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 176}
+  - name: BossGolemSlam_Frame_15
+    originalName: 
+    pivot: {x: 0.6891892, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 90
+      width: 74
+      height: 78
+    spriteID: 20ab95849fb9d8f48becb03f753083bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 90}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1111960584
+    name: BossGolemSlam
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BossGolemSlam_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 75
+        height: 78
+      spriteId: 3787abbac57561b4a81b8da473d9e6b9
+    - name: BossGolemSlam_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 19
+        y: 0
+        width: 70
+        height: 72
+      spriteId: b0112cbcf7c3c544ab8470eabac9b653
+    - name: BossGolemSlam_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 27
+        y: 0
+        width: 73
+        height: 74
+      spriteId: 6e3117960699be64b8b782ffc9dba198
+    - name: BossGolemSlam_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 17
+        y: 18
+        width: 71
+        height: 102
+      spriteId: 8fe95ecae8bf7b947bdaa97f4d45f74e
+    - name: BossGolemSlam_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 22
+        width: 58
+        height: 111
+      spriteId: f341261c7a970604189f8a0230b5edcd
+    - name: BossGolemSlam_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 23
+        width: 58
+        height: 115
+      spriteId: c187ee0cb82801a4f836bd1adfb30ed9
+    - name: BossGolemSlam_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 27
+        y: 6
+        width: 59
+        height: 112
+      spriteId: b64585023b498ef4ba18945a979a6114
+    - name: BossGolemSlam_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 32
+        y: -1
+        width: 85
+        height: 58
+      spriteId: cdb0bd8f112749c458320c71b18ec8a8
+    - name: BossGolemSlam_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 32
+        y: 0
+        width: 86
+        height: 59
+      spriteId: 873f2021c349da74581f415f47116fc6
+    - name: BossGolemSlam_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 32
+        y: 0
+        width: 82
+        height: 59
+      spriteId: 4d47663e3f435c447b8a3322f2cb9d2e
+    - name: BossGolemSlam_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 33
+        y: 0
+        width: 81
+        height: 59
+      spriteId: 3ada5dd92bd5ba64d8c77e6722bd4c22
+    - name: BossGolemSlam_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 32
+        y: 0
+        width: 75
+        height: 67
+      spriteId: 57a6f78100087b34faec36ef5da0e149
+    - name: BossGolemSlam_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 33
+        y: 0
+        width: 65
+        height: 77
+      spriteId: 6a81491f10fcd3c47b4aa306efe3040f
+    - name: BossGolemSlam_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 24
+        y: 0
+        width: 67
+        height: 79
+      spriteId: 529a88884bceb0948b2b7050243a5178
+    - name: BossGolemSlam_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 17
+        y: 0
+        width: 71
+        height: 78
+      spriteId: 2fb4b4afb2c86a944a2ce243c58f5496
+    - name: BossGolemSlam_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 13
+        y: 0
+        width: 74
+        height: 78
+      spriteId: 20ab95849fb9d8f48becb03f753083bc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 144}

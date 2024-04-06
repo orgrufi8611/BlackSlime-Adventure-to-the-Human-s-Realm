@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 5412fa91f1d0c1f4dbb4b6e2f851ba70
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MInatorProjectile_Frame_0
+    originalName: 
+    pivot: {x: 0.5301205, y: -0.09876543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 178
+      width: 83
+      height: 81
+    spriteID: 96c05913abd541f48b817df09250de77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 178}
+  - name: MInatorProjectile_Frame_1
+    originalName: 
+    pivot: {x: 0.5402299, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 87
+      height: 79
+    spriteID: d99c67512dfdc544a88b19e7fe56c827
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: MInatorProjectile_Frame_2
+    originalName: 
+    pivot: {x: 0.5402299, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 267
+      width: 87
+      height: 79
+    spriteID: dd9ca7c56b21e0a49b0b6e9638738784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 267}
+  - name: MInatorProjectile_Frame_3
+    originalName: 
+    pivot: {x: 0.5411765, y: -0.09876543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 85
+      height: 81
+    spriteID: 9dd022e33d5f8b948a921487aad01057
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: MInatorProjectile_Frame_4
+    originalName: 
+    pivot: {x: 0.5402299, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 354
+      width: 87
+      height: 79
+    spriteID: 9ab4945513d3427458fead4f0a41e41f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 354}
+  - name: MInatorProjectile_Frame_5
+    originalName: 
+    pivot: {x: 0.5402299, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 87
+      height: 79
+    spriteID: 7006d30bfd0b709439eb6355b08a87d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  - name: MInatorProjectile_Frame_6
+    originalName: 
+    pivot: {x: 0.50537634, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 93
+      height: 79
+    spriteID: b167695c1c8f6ae45b0f3a8e90fd962b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MInatorProjectile_Frame_7
+    originalName: 
+    pivot: {x: 0.5402299, y: -0.12658226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 91
+      width: 87
+      height: 79
+    spriteID: fb72c8fd4956c9c44af22e45ddde3935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 91}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1575368245
+    name: MInatorProjectile
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MInatorProjectile_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 8
+        width: 83
+        height: 81
+      spriteId: 96c05913abd541f48b817df09250de77
+    - name: MInatorProjectile_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 10
+        width: 87
+        height: 79
+      spriteId: d99c67512dfdc544a88b19e7fe56c827
+    - name: MInatorProjectile_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 10
+        width: 87
+        height: 79
+      spriteId: dd9ca7c56b21e0a49b0b6e9638738784
+    - name: MInatorProjectile_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 2
+        y: 8
+        width: 85
+        height: 81
+      spriteId: 9dd022e33d5f8b948a921487aad01057
+    - name: MInatorProjectile_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 1
+        y: 10
+        width: 87
+        height: 79
+      spriteId: 9ab4945513d3427458fead4f0a41e41f
+    - name: MInatorProjectile_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 10
+        width: 87
+        height: 79
+      spriteId: 7006d30bfd0b709439eb6355b08a87d8
+    - name: MInatorProjectile_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 1
+        y: 10
+        width: 93
+        height: 79
+      spriteId: b167695c1c8f6ae45b0f3a8e90fd962b
+    - name: MInatorProjectile_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 10
+        width: 87
+        height: 79
+      spriteId: fb72c8fd4956c9c44af22e45ddde3935
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}

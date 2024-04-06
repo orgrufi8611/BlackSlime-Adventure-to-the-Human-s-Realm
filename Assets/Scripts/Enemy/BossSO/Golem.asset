@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c1f996c8024ed40abe48c0f98bf22b, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  minions: {fileID: 6444118384796796847, guid: c96643d6681302f43aaf170953ac505f, type: 3}
+  projectilePrefub: {fileID: 2597885049698865517, guid: 0ddcc846aa9e5ee40a7ee56d3e680365, type: 3}
+  spawnCooldown: 2.5
+  attackCooldown: 8
+  lives: 300
+  points: 3000
